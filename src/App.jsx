@@ -174,7 +174,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
                 >
                   Delete
                 </button>
-              
+                }
               </td>
             </tr>
           ))}
